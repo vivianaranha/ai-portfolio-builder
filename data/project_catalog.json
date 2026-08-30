@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Enterprise RAG Assistant",
+    "category": "RAG",
+    "description": "Build a permission-aware enterprise knowledge assistant with citations and evaluation."
+  },
+  {
+    "id": 2,
+    "title": "Support Ticket Triage",
+    "category": "FDE",
+    "description": "Classify, prioritize, summarize, and route support tickets through FastAPI."
+  },
+  {
+    "id": 3,
+    "title": "Sales Intelligence Agent",
+    "category": "Agents",
+    "description": "Discover opportunities, enrich accounts, and recommend next-best actions."
+  },
+  {
+    "id": 4,
+    "title": "AI Model Gateway",
+    "category": "Architecture",
+    "description": "Route requests across multiple models based on cost, latency, and task."
+  },
+  {
+    "id": 5,
+    "title": "RAG Evaluation Workbench",
+    "category": "Evaluation",
+    "description": "Compare chunking, retrieval, reranking, and groundedness."
+  },
+  {
+    "id": 6,
+    "title": "Prompt Injection Defense Lab",
+    "category": "Security",
+    "description": "Demonstrate prompt-injection attacks and mitigation patterns."
+  },
+  {
+    "id": 7,
+    "title": "Local AI Assistant",
+    "category": "Local AI",
+    "description": "Build an Ollama-based assistant with local retrieval and tools."
+  },
+  {
+    "id": 8,
+    "title": "AI Governance Registry",
+    "category": "Governance",
+    "description": "Track AI systems, risks, controls, owners, and approvals."
+  },
+  {
+    "id": 9,
+    "title": "Executive AI Briefing Agent",
+    "category": "Enterprise AI",
+    "description": "Generate grounded executive briefings from multiple enterprise sources."
+  },
+  {
+    "id": 10,
+    "title": "AI Document Processor",
+    "category": "Document AI",
+    "description": "Classify documents and extract validated structured data."
+  },
+  {
+    "id": 11,
+    "title": "Multi-Agent Operations System",
+    "category": "Agents",
+    "description": "Coordinate specialist agents through a supervisor."
+  },
+  {
+    "id": 12,
+    "title": "AI Cost Optimizer",
+    "category": "FinOps",
+    "description": "Track model usage and recommend lower-cost routing."
+  },
+  {
+    "id": 13,
+    "title": "Semantic Search Engine",
+    "category": "RAG",
+    "description": "Create a search system over enterprise documents."
+  },
+  {
+    "id": 14,
+    "title": "AI Incident Copilot",
+    "category": "IT Operations",
+    "description": "Search runbooks, summarize incidents, and recommend next steps."
+  },
+  {
+    "id": 15,
+    "title": "AI Meeting Preparation Agent",
+    "category": "Productivity",
+    "description": "Prepare customer or executive meetings from structured context."
+  },
+  {
+    "id": 16,
+    "title": "Fraud Investigation Copilot",
+    "category": "Finance",
+    "description": "Assist investigators using transaction and policy context."
+  },
+  {
+    "id": 17,
+    "title": "Supply Chain Risk Agent",
+    "category": "Operations",
+    "description": "Combine inventory and supplier signals to identify risk."
+  },
+  {
+    "id": 18,
+    "title": "HR Policy Assistant",
+    "category": "HR",
+    "description": "Build a grounded employee-policy assistant."
+  },
+  {
+    "id": 19,
+    "title": "AI Interview Coach",
+    "category": "Education",
+    "description": "Generate interview scenarios, score answers, and track weak areas."
+  },
+  {
+    "id": 20,
+    "title": "AI Course Lab Generator",
+    "category": "Education",
+    "description": "Generate hands-on labs from learning objectives."
+  },
+  {
+    "id": 21,
+    "title": "Airline Disruption Assistant",
+    "category": "Aviation",
+    "description": "Combine flight, crew, weather, and customer impact signals."
+  },
+  {
+    "id": 22,
+    "title": "Predictive Maintenance Service",
+    "category": "ML",
+    "description": "Build a model-serving workflow for maintenance risk."
+  },
+  {
+    "id": 23,
+    "title": "Customer Churn Platform",
+    "category": "ML",
+    "description": "Train, serve, explain, and monitor churn predictions."
+  },
+  {
+    "id": 24,
+    "title": "Recommendation API",
+    "category": "ML",
+    "description": "Create a recommendation service with evaluation."
+  },
+  {
+    "id": 25,
+    "title": "AI Product Requirement Generator",
+    "category": "Product",
+    "description": "Turn discovery notes into structured AI PRDs."
+  },
+  {
+    "id": 26,
+    "title": "AI Use-Case Prioritizer",
+    "category": "Strategy",
+    "description": "Rank AI opportunities by value, feasibility, risk, and readiness."
+  },
+  {
+    "id": 27,
+    "title": "Agent Observability Dashboard",
+    "category": "Observability",
+    "description": "Trace routing, tool calls, latency, failures, and cost."
+  },
+  {
+    "id": 28,
+    "title": "Human Approval Workflow",
+    "category": "Agents",
+    "description": "Gate high-impact AI actions with human review."
+  },
+  {
+    "id": 29,
+    "title": "Agent Memory Lab",
+    "category": "Agents",
+    "description": "Compare short-term, long-term, episodic, and semantic memory."
+  },
+  {
+    "id": 30,
+    "title": "OpenAPI Agent Toolkit",
+    "category": "Integration",
+    "description": "Turn OpenAPI endpoints into controlled agent tools."
+  }
+]

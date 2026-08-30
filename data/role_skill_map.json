@@ -1,0 +1,61 @@
+{
+  "ai-engineer": [
+    "Python",
+    "ML",
+    "RAG",
+    "Agents",
+    "APIs",
+    "Evaluation",
+    "Security",
+    "Deployment"
+  ],
+  "ai-architect": [
+    "Architecture",
+    "RAG",
+    "Agents",
+    "Security",
+    "Governance",
+    "Integration",
+    "Hybrid",
+    "Cost"
+  ],
+  "forward-deployed-engineer": [
+    "Discovery",
+    "Architecture",
+    "Prototyping",
+    "Integration",
+    "Delivery",
+    "Observability",
+    "ROI",
+    "Handoff"
+  ],
+  "genai-engineer": [
+    "LLMs",
+    "Prompting",
+    "Structured Output",
+    "RAG",
+    "Agents",
+    "Evaluation",
+    "Security",
+    "APIs"
+  ],
+  "ml-engineer": [
+    "Python",
+    "Data",
+    "ML",
+    "Serving",
+    "Evaluation",
+    "Monitoring",
+    "Deployment",
+    "MLOps"
+  ],
+  "ai-product-manager": [
+    "Discovery",
+    "Prioritization",
+    "Requirements",
+    "Evaluation",
+    "Responsible AI",
+    "Adoption",
+    "Business Value"
+  ]
+}
